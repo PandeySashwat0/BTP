@@ -1,0 +1,34 @@
+Relevant HW-SW Co Design:
+
+HiKv: https://arxiv.org/pdf/2607.22389
+KIVI: https://arxiv.org/pdf/2402.02750
+FlightLLM(FPGA): https://arxiv.org/pdf/2401.03868
+
+
+Survey Paper: https://arxiv.org/pdf/2412.19442
+
+KV Cache policies:
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11206428&tag=1
+https://arxiv.org/pdf/2606.25353
+https://openreview.net/pdf?id=WOyOtaO6lQ
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11534083&tag=1
+https://openreview.net/forum?id=oa7MYAO6h6
+https://openreview.net/forum?id=RyOpooIxDF
+https://arxiv.org/abs/2310.07240
+https://arxiv.org/abs/2303.06865
+https://arxiv.org/abs/2308.16369
+https://arxiv.org/abs/2401.09670
+https://arxiv.org/abs/2306.14048
+https://arxiv.org/abs/2603.20397
+https://arxiv.org/pdf/2309.06180
+https://www.usenix.org/conference/osdi22/presentation/yu
+https://www.usenix.org/system/files/osdi22-yu.pdf
+https://arxiv.org/pdf/2502.09992
+https://arxiv.org/pdf/2407.21783
+
+
+Readings:
+https://developer.nvidia.com/blog/mastering-llm-techniques-inference-optimization/
+https://pub.towardsai.net/llm-inference-handbook-2026-135c266b86e7
+https://jalammar.github.io/illustrated-transformer/
+https://arxiv.org/pdf/1706.03762
